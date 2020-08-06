@@ -1,0 +1,1 @@
+đây là file README để nói về GitProject
